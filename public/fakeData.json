@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Eoin Morgan",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/303900/303947.jpg",
+      "salary": 2500000
+    },
+    {
+      "id": 2,
+      "name": "Tom Banton",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/304900/304936.jpg",
+      "salary": 1000000
+    },
+    {
+      "id": 3,
+      "name": "Pat Cummins",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/309000/309079.png",
+      "salary": 1500000
+    },
+    {
+      "id": 4,
+      "name": "Lockie Ferguson",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/303800/303800.png",
+      "salary": 1200000
+    },
+    {
+      "id": 5,
+      "name": "Sunil Narine",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/203300/203303.1.jpg",
+      "salary": 900000
+    },
+    {
+      "id": 6,
+      "name": "Dinesh Karthik",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/304100/304195.png",
+      "salary": 1800000
+    },
+    {
+      "id": 7,
+      "name": "Kuldeep Yadav",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/304200/304208.png",
+      "salary": 1300000
+    },
+    {
+      "id": 8,
+      "name": "Kamlesh Nagarkoti",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/271800/271894.jpg",
+      "salary": 1400000
+    },
+    {
+      "id": 9,
+      "name": "Nikhil Naik",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/204000/204075.jpg",
+      "salary": 1700000
+    },
+    {
+      "id": 10,
+      "name": "Prasidh Krishna",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/308900/308973.jpg",
+      "salary": 800000
+    },
+    {
+      "id": 11,
+      "name": "Nitish Rana",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/309000/309078.jpg",
+      "salary": 700000
+    },
+    {
+      "id": 12,
+      "name": "Andre Russell",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/308900/308972.png",
+      "salary": 2500000
+    },
+    {
+      "id": 13,
+      "name": "Shubman Gill",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/312100/312153.jpg",
+      "salary": 1120000
+    },
+    {
+      "id": 14,
+      "name": "Varun Chakravarthy",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/310100/310181.jpg",
+      "salary": 500000
+    },
+    {
+      "id": 15,
+      "name": "Shakib Al Hasan",
+      "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+      "salary": 3500000
+    }
+  ]
